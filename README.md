@@ -1,3 +1,8 @@
+# Covid Tracker App
+
+[Deployed Here](https://co19-trackers.netlify.app/)
+----
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
